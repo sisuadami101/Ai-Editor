@@ -1,0 +1,5 @@
+{
+  "name": "AdGenius - Banner Generator",
+  "description": "High-performance AI advertising banner generator using Gemini 3 Pro. Create stunning visuals in multiple aspect ratios and 4K resolution.",
+  "requestFramePermissions": []
+}
